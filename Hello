@@ -20,3 +20,6 @@ git remote v- daje informacje o utworzonych repozytoriach
 git clone link.do.repo – pobiera nam repozytorium
 git pull – pobiera zmienione/dodane elementy z repo
 git touch .gitignore – tworzy plik w którym możemy pisać nazwy plików których nie ma dodać
+
+
+Mam coś tutaj dopisać więc spoko i jest okej.
