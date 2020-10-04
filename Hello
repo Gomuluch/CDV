@@ -21,9 +21,8 @@ git clone link.do.repo – pobiera nam repozytorium
 git pull – pobiera zmienione/dodane elementy z repo
 git touch .gitignore – tworzy plik w którym możemy pisać nazwy plików których nie ma dodać
 
+Tutaj też zmieniam coś ważnego i chuj
 
-Mam coś tutaj dopisać więc spoko i jest okej.
-
-Mam dodać trzeci wiersz to dodaje
+Tutaj zmieniam coś ważnego 
 
 Mam dodać 4 to dodaje i nowy brunch
