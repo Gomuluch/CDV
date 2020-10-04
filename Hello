@@ -1,0 +1,22 @@
+git init – tworzy puste repo / repozytorium
+git status – pokazuje status repo
+git add – dodaje dany plik do gita
+git add . - dodaje wszystkie elementy do gita
+git commit -m „” - dodajemy opis zmian jaki daliśmy
+git log – pozwala zobaczyć listę zmian/autora itp.
+git checkout <kod> - przywraca wersje przed zmianą kod jest z git log
+git branch – pokazuje liste branchy 
+git checkout -b nazwabrancha – tworzy nowy branch
+git checkout nazwabrancha – przenosi nas do brancha
+git branch -d nazwabrancha – usuwa brancha
+git merge nazwabrancha – łączy brancha z innym
+git push – dodaje na github nową wersje
+
+Uwaga! Przy git log może być sytuacja w której nie będziemy mogli wpisać dalszych komend. Należy wcisnąć klawisz ‘q’ 
+
+git remote v- daje informacje o utworzonych repozytoriach
+żeby stworzyć repo o innej nazwie niż orgin należy ją zmienić np. na chomik 
+
+git clone link.do.repo – pobiera nam repozytorium
+git pull – pobiera zmienione/dodane elementy z repo
+git touch .gitignore – tworzy plik w którym możemy pisać nazwy plików których nie ma dodać
